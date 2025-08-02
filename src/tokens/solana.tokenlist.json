@@ -1,13 +1,9 @@
 {
   "chainId": 101,
-  "address": "YOUR_TOKEN_MINT_ADDRESS",
+  "address": "9RQ6XK3R2bCF2RDXKYsgykjkbnr5hi2R7YqXiw7o1xMn",
   "symbol": "HIB",
   "name": "JoMyst",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_REPO/logo.png",
-  "tags": ["meme", "community"],
-  "extensions": {
-    "Twitter": "https://x.com/JoMyst_2025?t=YDaRQxqeVBHzFwAGWgwbNg&s=09",
-    "description": "JoMyst (HIB) - The meme coin of happiness!"
-  }
+  "logoURI": "https://9874877776sidharth7776666.github.io/JoMyst/",
+  "Twitter": "https://x.com/JoMyst_2025?t=YDaRQxqeVBHzFwAGWgwbNg&s=09"
 }
